@@ -1,0 +1,12 @@
+
+body {
+    background: var(--color-body-bg);
+    margin: 0;
+    padding: 0;
+}
+
+.main-holder {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
